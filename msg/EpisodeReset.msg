@@ -1,5 +1,4 @@
 int32 episode_id
-int32 external_drone_id
 
 float32[] pos
 float32[] quat
