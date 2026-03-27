@@ -10,6 +10,6 @@ float32[] gates_pos
 float32[] gates_quat
 bool[] gates_visited
 float32[] obstacles_pos
-bool obstacles_visited
+bool[] obstacles_visited
 
 
