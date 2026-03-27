@@ -12,6 +12,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/EpisodeReset.msg"
   "msg/Observations.msg"
   "msg/StepResult.msg"
+  "msg/RaceEnd.msg"
   DEPENDENCIES builtin_interfaces std_msgs
 )
 
